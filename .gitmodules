@@ -1,0 +1,6 @@
+[submodule "sub/first_repo"]
+	path = sub/first_repo
+	url = https://github.com/reddimalla/first_repo.git
+[submodule "sub/second_repo"]
+	path = sub/second_repo
+	url = https://github.com/reddimalla/second_repo.git
